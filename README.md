@@ -1,26 +1,23 @@
 # ProAngel Nursing
 
-ProAngel Nursing is a recruitment and staffing agency that specializes in placing nurses in healthcare facilities. We have a team of experienced recruiters who are dedicated to finding the best possible matches for our clients.
+ProAngel Nursing is a leading recruitment and staffing agency specializing in providing top-notch nursing professionals and allied healthcare professionals  to healthcare facilities. With our dedicated team of experienced recruiters, we are committed to delivering exceptional staffing solutions for our clients.
 
 ## About
 
-We are committed to providing our clients with the highest quality of service. We understand that finding the right nurse for your facility is essential to providing quality care to your patients. That's why we take the time to get to know your needs and requirements. We also have a deep understanding of the nursing market, so we can match you with the best possible candidates.
-
+ProAngel Nursing is a trusted recruitment and staffing agency that specializes in placing highly qualified nursing professionals and allied healthcare experts in various clinical settings, including healthcare facilities, clinics, and labs. We are committed to providing our clients with the highest quality of service, recognizing the crucial role of finding the right healthcare professionals in delivering exceptional care to patients.
 ## Services
 
 We offer a wide range of services, including:
 
-* Direct placement
-* Shift coverage placement
+* Direct Hire
+* Shift coverage 
 * Contract staffing
 * Travel nursing
 * PerDiem
 
 ## Contact
 
-Are you looking for a qualified nurse, CNA, medication aid, or allied health professional? ProAngel Nursing can help. We have a wide network of qualified candidates, and we are committed to finding the perfect match for your facility.
-
-To get started, simply contact us today. We would be happy to discuss your needs and find the perfect candidate for your team.
+Searching for top-notch healthcare professionals? ProAngel Nursing has you covered. Whether you require a qualified nurse, CNA, medication aid, or allied health professional, we have an extensive network of talented candidates ready to meet your needs. Contact us now to start the conversation and find the perfect candidate for your facility.
 
 Email: info@proangelnursing.com
 Phone: (541) 417-2851
