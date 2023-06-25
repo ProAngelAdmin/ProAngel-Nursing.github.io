@@ -18,10 +18,12 @@ We offer a wide range of services, including:
 
 ## Contact
 
-If you're looking for a qualified Nurse,CNA, Medication Aid or Allied health professional CCMA , Phlebotomist.  Please contact us today. We would be happy to discuss your needs and find the perfect candidate for your facility.
+Are you looking for a qualified nurse, CNA, medication aid, or allied health professional? ProAngel Nursing can help. We have a wide network of qualified candidates, and we are committed to finding the perfect match for your facility.
 
-[info@proangelnursing.com]
+To get started, simply contact us today. We would be happy to discuss your needs and find the perfect candidate for your team.
 
-[541-417-2851]
+Email: info@proangelnursing.com
+Phone: (541) 417-2851
 
-[website]
+We look forward to hearing from you!
+
