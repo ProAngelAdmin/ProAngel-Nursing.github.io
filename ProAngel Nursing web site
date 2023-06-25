@@ -1,7 +1,42 @@
-echo "# ProAngel-Nursing.github.io" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/ProAngelAdmin/ProAngel-Nursing.github.io.git
-git push -u origin main
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ProAngel Nursing</title>
+</head>
+<body>
+  <header>
+    <h1>ProAngel Nursing</h1>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">About Us</a>
+      <a href="#">Services</a>
+      <a href="#">Contact Us</a>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <h2>About Us</h2>
+      <p>ProAngel Nursing is a professional nursing agency that provides a wide range of nursing services to individuals and families. We are committed to providing our clients with the highest quality of care, and we are staffed with experienced and qualified nurses who are dedicated to their patients.</p>
+    </section>
+    <section>
+      <h2>Services</h2>
+      <ul>
+        <li>Home health care</li>
+        <li>In-patient care</li>
+        <li>Long-term care</li>
+        <li>Rehabilitation</li>
+        <li>Pain management</li>
+      </ul>
+    </section>
+    <section>
+      <h2>Contact Us</h2>
+      <p>To learn more about our services or to schedule a consultation, please contact us at <strong>info@proangelnursing.com</strong> or <strong>1-800-555-1212</strong>.</p>
+    </section>
+  </main>
+  <footer>
+    <p>Copyright &copy; 2023 ProAngel Nursing</p>
+  </footer>
+</body>
+</html>
