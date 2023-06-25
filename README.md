@@ -7,7 +7,7 @@ ProAngel Nursing is a leading recruitment and staffing agency specializing in pr
 ProAngel Nursing is a trusted recruitment and staffing agency that specializes in placing highly qualified nursing professionals and allied healthcare experts in various clinical settings, including healthcare facilities, clinics, and labs. We are committed to providing our clients with the highest quality of service, recognizing the crucial role of finding the right healthcare professionals in delivering exceptional care to patients.
 ## Services
 
-ProAngel Nursing is a premier recruitment and staffing agency specializing in the placement of nurses, CNAs, medication aids, and phlebotomists. We offer a range of services tailored to meet the staffing needs of healthcare facilities:
+ProAngel Nursing is a premier recruitment and staffing agency specializing in the placement of nurses, Cna's, medication aids,certified medical assistants and phlebotomists. We offer a range of services tailored to meet the staffing needs of healthcare facilities:
 
 Direct Hire: We facilitate direct placements, allowing you to hire qualified professionals for permanent positions within your facility.
 
